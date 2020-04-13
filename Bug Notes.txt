@@ -1,0 +1,4 @@
+Bullets need to be destroyed after collision or after a certain amount of time
+Player needs to flip when moving left //SpriteEffect myEffect = SpriteEffect.FlipHorizontally;
+Bullets need to be centered
+Entity Constructor does not use parameter "position"

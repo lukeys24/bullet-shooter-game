@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+	<waves>
+    
+    <wave>
+			<level>1</level>
+			<startTime>0</startTime>
+			<endTime>1000</endTime>
+			<enemyType>"gruntLvl1"</enemyType>
+      <startX>60</startX>
+      <startY>20</startY>
+      <endX>1500</endX> 
+      <endY>200</endY>
+			<enemyBullets>"gruntBullet"</enemyBullets>
+      <enemyMovement>"movement1"</enemyMovement>
+      <enemyShooting>"shooting1"</enemyShooting>
+		</wave>
+    
+    <wave>
+			<level>2</level>
+			<startTime>1000</startTime>
+			<endTime>2000</endTime>
+			<enemyType>"gruntLvl1"</enemyType>
+      <startX>0</startX>
+      <startY>300</startY>
+      <endX>1500</endX> 
+      <endY>200</endY>
+			<enemyBullets>"midBossBullets"</enemyBullets>
+      <enemyMovement>"movement1"</enemyMovement>
+      <enemyShooting>"shooting1"</enemyShooting>
+		</wave>
+    
+    <wave>
+      <level>3</level>
+      <startTime>2000</startTime>
+			<endTime>3000</endTime>
+			<enemyType>"gruntLvl1"</enemyType>
+      <startX>60</startX>
+      <startY>20</startY>
+      <endX>1500</endX> 
+      <endY>200</endY>
+			<enemyBullets>"gruntBullet"</enemyBullets>
+      <enemyMovement>"movement1"</enemyMovement>
+      <enemyShooting>"shooting1"</enemyShooting>
+		</wave>
+    
+    <wave>
+      <level>4</level>
+      <startTime>3000</startTime>
+			<endTime>4000</endTime>
+			<enemyType>"gruntLvl1"</enemyType>
+      <startX>60</startX>
+      <startY>200</startY>
+      <endX>1500</endX> 
+      <endY>200</endY>
+			<enemyBullets>"finalBossBullets"</enemyBullets>
+      <enemyMovement>"movement1"</enemyMovement>
+      <enemyShooting>"shooting1"</enemyShooting>
+		</wave>
+	</waves>
